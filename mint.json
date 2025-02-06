@@ -3,5 +3,6 @@
     "font": {
       "heading": "Manrope",
       "body": "Manrope"
-  }
+  },
+    "theme": "quill"
 }
