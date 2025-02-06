@@ -1,4 +1,5 @@
 {
+    "theme": "quill",
     "name": "Mintlify",
     "logo": {
         "light": "/logo/light.svg",
