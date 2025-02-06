@@ -64,12 +64,14 @@
             ]
         },
         {
-            "group": "User",
+            "group": "Getting Started",
             "pages": [
-                "Dashboard",
+                "quickstart",
                 {
-                    "group": "Dashboard Sections",
-                    "pages": ["Numbers"]
+                    "group": "Nested Reference Pages",
+                    "pages": [
+                        "nested-reference-page"
+                    ]
                 }
             ]
         }
