@@ -17,8 +17,8 @@
         }
     ],
     "topbarCtaButton": {
-        "name": "Get Started",
-        "url": "https://mintlify.com/start"
+        "name": "Go to App",
+        "url": "app-originality.inspera.com"
     },
     "anchors": [
         {
@@ -38,7 +38,7 @@
         {
             "group": "Administrator",
             "pages": [
-                "Dashboard-Sections/admindash",
+                "Administrator/administrator-dashboard-sections",
                 "Action-Menus"
             ]
         },
