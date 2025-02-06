@@ -1,8 +1,4 @@
 {
-    "font": {
-        "heading": "Manrope",
-        "body": "Manrope"
-    },
     "name": "Mintlify",
     "logo": {
         "light": "/logo/light.svg",
@@ -40,24 +36,24 @@
     ],
     "navigation": [
         {
-            "group": "Getting Started",
+            "group": "Administrator",
             "pages": [
-                "introduction",
-                "quickstart"
+                "Dashboard-Sections",
+                "Action-Menus"
             ]
         },
         {
-            "group": "API Components",
+            "group": "Educator",
             "pages": [
-                "api-playground/overview",
-                "api-playground/configuration"
+                "Dashboard-Sections",
+                "Action-Menus"
             ]
         },
         {
-            "group": "Settings",
+            "group": "Student",
             "pages": [
-                "settings/global",
-                "settings/page"
+                "Dashboard-Sections",
+                "Action-Menus"
             ]
         },
         {
