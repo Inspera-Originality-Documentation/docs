@@ -38,7 +38,7 @@
         {
             "group": "Administrator",
             "pages": [
-                "Dashboard-Sections",
+                "Dashboard-Sections/admindash",
                 "Action-Menus"
             ]
         },
