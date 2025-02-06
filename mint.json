@@ -1,13 +1,33 @@
 {
-  "name": "Mintlify",
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#16A34A",
-    "light": "#4ADE80",
-    "dark": "#166534"
-  }
+    "navigation": [
+        {
+            "group": "Originality Report",
+            "pages": [
+                "navigation-tabs",
+                "summary-view",
+              "sentence-highlights",
+              "in-depth-analyses"
+            ]
+        },
+        {
+            "group": "API Components",
+            "pages": [
+                "api-playground/overview",
+                "api-playground/configuration"
+            ]
+        },
+        {
+            "group": "Settings",
+            "pages": [
+                "settings/global",
+                "settings/page"
+            ]
+        },
+        {
+            "group": "Analytics",
+            "pages": [
+                "analytics/posthog"
+            ]
+        }
+    ]
 }
