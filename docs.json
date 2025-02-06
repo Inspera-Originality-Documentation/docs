@@ -1,6 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "palm",
+  "font": {
+    "heading": "Manrope",
+    "body": "Manrope"
+  }
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
