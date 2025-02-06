@@ -62,6 +62,16 @@
             "pages": [
                 "analytics/posthog"
             ]
+        },
+        {
+            "group": "User",
+            "pages": [
+                "Dashboard",
+                {
+                    "group": "Dashboard Sections",
+                    "pages": ["Numbers"]
+                }
+            ]
         }
     ],
     "footerSocials": {
