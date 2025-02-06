@@ -1,8 +1,12 @@
 {
-    "$schema": "https://mintlify.com/mint.json",
-    "font": {
-      "heading": "Manrope",
-      "body": "Manrope"
+  "name": "Mintlify",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
   },
-    "theme": "quill"
-}
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#4ADE80",
+    "dark": "#166534"
+  }
