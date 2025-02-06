@@ -1,4 +1,7 @@
 {
     "$schema": "https://mintlify.com/mint.json",
-  
+    "font": {
+      "heading": "Manrope",
+      "body": "Manrope"
+  }
 }
