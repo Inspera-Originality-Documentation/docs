@@ -8,7 +8,7 @@
     "dark": "#211C84"
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "windows"
   }, 
   "favicon": "/favicon.svg",
   "navigation": {
