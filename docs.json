@@ -11,7 +11,7 @@
         "family": "Inter"
     },
     "background": {
-        "decoration": "gradient",
+        "decoration": "windows",
         "color": {
             "light": "#FFFFFF",
             "dark": "#000000"
