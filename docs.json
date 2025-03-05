@@ -13,8 +13,8 @@
     "background": {
         "decoration": "gradient",
         "color": {
-            "light": "#AC1754",
-            "dark": "#AC1754"
+            "light": "#FFFFFF",
+            "dark": "#1D1616"
         }
     },
     "favicon": "/favicon.svg",
