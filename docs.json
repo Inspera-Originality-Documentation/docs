@@ -20,6 +20,13 @@
                 "tab": "Guides",
                 "groups": [
                     {
+                        "group": "Welcome",
+                        "pages": [
+                            "Quickstart",
+                            "Product Information"
+                        ]
+                    },
+                    {
                         "group": "Administrator",
                         "pages": [
                             "administrator/analytics",
