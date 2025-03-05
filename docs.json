@@ -14,7 +14,7 @@
         "decoration": "windows",
         "color": {
             "light": "#F1F0E8",
-            "dark": "#F1F0E8"
+            "dark": "#5C7285"
         }
     },
     "favicon": "/favicon.svg",
