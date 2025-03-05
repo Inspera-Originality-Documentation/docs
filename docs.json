@@ -1,113 +1,119 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
-  "name": "Mint Starter Kit",
-  "colors": {
-    "primary": "#4D55CC",
-    "light": "#ADB2D4",
-    "dark": "#211C84"
-  },
-   "fonts": {
-    "family": "Manrope"
-  }, 
-  "background": {
-    "decoration": "windows",
-    "color": {
-      "light": "#ffffff",
-      "dark": "#131842"
-    }
-  }, 
-  "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "User Guides",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development",
-              "test"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Linkedin",
-          "href": "https://www.linkedin.com/company/inspera/",
-          "icon": "linkedin"
-        },
-        {
-          "anchor": "X",
-          "href": "https://www.x.com/inspera/",
-          "icon": "x-twitter"
-        },
-        {
-          "anchor": "Youtube",
-          "href": "https://www.youtube.com/user/insperaassessment",
-          "icon": "youtube"
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "linden",
+    "name": "Mint Starter Kit",
+    "colors": {
+        "primary": "#4D55CC",
+        "light": "#ADB2D4",
+        "dark": "#211C84"
+    },
+    "fonts": {
+        "family": "Manrope"
+    },
+    "background": {
+        "decoration": "windows",
+        "color": {
+            "light": "#ffffff",
+            "dark": "#131842"
         }
-      ]
+    },
+    "favicon": "/favicon.svg",
+    "navigation": {
+        "tabs": [
+            {
+                "tab": "Guides",
+                "groups": [
+                    {
+                        "group": "User Guides",
+                        "pages": [
+                            "introduction",
+                            {
+                                "group": "Dashboard",
+                                "pages": [
+                                    "Analytics"
+                                ]
+                            },
+                            "quickstart",
+                            "development",
+                            "test"
+                        ]
+                    },
+                    {
+                        "group": "Essentials",
+                        "pages": [
+                            "essentials/markdown",
+                            "essentials/code",
+                            "essentials/images",
+                            "essentials/settings",
+                            "essentials/navigation",
+                            "essentials/reusable-snippets"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "API Reference",
+                "groups": [
+                    {
+                        "group": "API Documentation",
+                        "pages": [
+                            "api-reference/introduction"
+                        ]
+                    },
+                    {
+                        "group": "Endpoint Examples",
+                        "pages": [
+                            "api-reference/endpoint/get",
+                            "api-reference/endpoint/create",
+                            "api-reference/endpoint/delete",
+                            "api-reference/endpoint/webhook"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "global": {
+            "anchors": [
+                {
+                    "anchor": "Linkedin",
+                    "href": "https://www.linkedin.com/company/inspera/",
+                    "icon": "linkedin"
+                },
+                {
+                    "anchor": "X",
+                    "href": "https://www.x.com/inspera/",
+                    "icon": "x-twitter"
+                },
+                {
+                    "anchor": "Youtube",
+                    "href": "https://www.youtube.com/user/insperaassessment",
+                    "icon": "youtube"
+                }
+            ]
+        }
+    },
+    "logo": {
+        "light": "/logo/ins.svg",
+        "dark": "/logo/ins.svg"
+    },
+    "navbar": {
+        "links": [
+            {
+                "label": "Support",
+                "href": "mailto:hi@mintlify.com"
+            }
+        ],
+        "primary": {
+            "type": "button",
+            "label": "Dashboard",
+            "href": "https://dashboard.mintlify.com"
+        }
+    },
+    "footer": {
+        "socials": {
+            "x": "https://x.com/mintlify",
+            "github": "https://github.com/mintlify",
+            "linkedin": "https://linkedin.com/company/mintlify"
+        }
     }
-  },
-  "logo": {
-    "light": "/logo/ins.svg",
-    "dark": "/logo/ins.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
 }
