@@ -5,16 +5,16 @@
     "colors": {
         "primary": "#4D55CC",
         "light": "#FFFFFF",
-        "dark": "#1D1616"
+        "dark": "#000000"
     },
     "fonts": {
         "family": "Inter"
     },
     "background": {
-        "decoration": "gradient",
+        "decoration": "grid",
         "color": {
             "light": "#FFFFFF",
-            "dark": "#1D1616"
+            "dark": "#000000"
         }
     },
     "favicon": "/favicon.svg",
