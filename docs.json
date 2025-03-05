@@ -11,7 +11,8 @@
     "family": "Manrope"
   }, 
   "background": {
-    "decoration": "windows"
+    "decoration": "windows",
+    "color": "#ADB2D4"
   }, 
   "favicon": "/favicon.svg",
   "navigation": {
