@@ -29,16 +29,21 @@
                             "Analytics",
                             "Academic Units",
                             "Subjects",
-                            "Submissions"
+                            "Submissions",
+                            "Add Units",
+                            "User Management",
+                            "Settings & Preferences",
+                            "Content Access",
+                            "Account Settings"
                         ]
                     },
                     {
-                        "group": "User Guides",
+                        "group": "Educator",
                         "pages": [
-                            "introduction",
-                            "quickstart",
-                            "development",
-                            "test"
+                            "Overview",
+                            "Academic Units",
+                            "Administration",
+                            "Submissions"
                         ]
                     },
                     {
