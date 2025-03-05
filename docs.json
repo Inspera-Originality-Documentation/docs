@@ -7,6 +7,9 @@
     "light": "#ADB2D4",
     "dark": "#211C84"
   },
+   "fonts": {
+    "family": "Manrope"
+  }, 
   "background": {
     "decoration": "windows"
   }, 
