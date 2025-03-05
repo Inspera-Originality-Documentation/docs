@@ -11,10 +11,10 @@
         "family": "Roboto"
     },
     "background": {
-        "decoration": "gradient",
+        "decoration": "grid",
         "color": {
-            "light": "#ffffff",
-            "dark": "#131842"
+            "light": "#F2EFE7",
+            "dark": "#1D1616"
         }
     },
     "favicon": "/favicon.svg",
