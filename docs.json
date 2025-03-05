@@ -23,16 +23,19 @@
             {
                 "tab": "Guides",
                 "groups": [
+                                      {
+                        "group": "Administrator",
+                        "pages": [
+                            "Analytics",
+                            "Academic Units",
+                            "Subjects",
+                            "Submissions"
+                        ]
+                    },
                     {
                         "group": "User Guides",
                         "pages": [
                             "introduction",
-                            {
-                                "group": "Dashboard",
-                                "pages": [
-                                    "Analytics"
-                                ]
-                            },
                             "quickstart",
                             "development",
                             "test"
