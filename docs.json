@@ -27,7 +27,7 @@
                         "group": "Administrator",
                         "pages": [
                             "administrator/analytics",
-                            "Academic Units",
+                            "administrator/academic-units",
                             "Subjects",
                             "Submissions",
                             "Add Units",
@@ -41,7 +41,6 @@
                         "group": "Educator",
                         "pages": [
                             "introduction",
-                            "Academic Units",
                             "Administration",
                             "Submissions"
                         ]
