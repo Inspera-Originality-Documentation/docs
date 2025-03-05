@@ -69,19 +69,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Linkedin",
+          "href": "https://www.linkedin.com/company/inspera/",
+          "icon": "linkedin"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "X",
+          "href": "https://www.x.com/inspera/",
+          "icon": "x-twitter"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Youtube",
+          "href": "https://www.youtube.com/user/insperaassessment",
+          "icon": "youtube"
         }
       ]
     }
