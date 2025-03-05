@@ -26,7 +26,7 @@
                                       {
                         "group": "Administrator",
                         "pages": [
-                            "Analytics",
+                            "analytics",
                             "Academic Units",
                             "Subjects",
                             "Submissions",
