@@ -22,7 +22,7 @@
                     {
                         "group": "Welcome",
                         "pages": [
-                            "Quickstart",
+                            "welcome/quickstart",
                             "Product Information"
                         ]
                     },
