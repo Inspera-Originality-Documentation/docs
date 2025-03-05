@@ -11,10 +11,10 @@
         "family": "Inter"
     },
     "background": {
-        "decoration": "grid",
+        "decoration": "gradient",
         "color": {
-            "light": "#FFFFFF",
-            "dark": "#000000"
+            "light": "#000000",
+            "dark": "#FFFFFF"
         }
     },
     "favicon": "/favicon.svg",
