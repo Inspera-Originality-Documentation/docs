@@ -12,7 +12,10 @@
   }, 
   "background": {
     "decoration": "windows",
-    "color": "#ADB2D4"
+    "color": {
+      "light": "#ADB2D4",
+      "dark": "#ADB2D4"
+    }
   }, 
   "favicon": "/favicon.svg",
   "navigation": {
