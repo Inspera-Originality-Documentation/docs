@@ -13,8 +13,8 @@
     "background": {
         "decoration": "windows",
         "color": {
-            "light": "#FFFFFF",
-            "dark": "#000000"
+            "light": "#4D55CC",
+            "dark": "#4D55CC"
         }
     },
     "favicon": "/favicon.svg",
