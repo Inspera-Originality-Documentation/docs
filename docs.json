@@ -8,13 +8,13 @@
         "dark": "#4D55CC"
     },
     "fonts": {
-        "family": "Inter"
+        "family": "Montserrat"
     },
     "background": {
         "decoration": "windows",
         "color": {
-            "light": "#FFFFFF",
-            "dark": "#000000"
+            "light": "#F1F0E8",
+            "dark": "#F1F0E8"
         }
     },
     "favicon": "/favicon.svg",
