@@ -1,6 +1,6 @@
 {
     "$schema": "https://mintlify.com/docs.json",
-    "theme": "willow",
+    "theme": "Linden",
     "name": "Mint Starter Kit",
     "colors": {
         "primary": "#4D55CC",
@@ -11,7 +11,7 @@
         "family": "Montserrat"
     },
     "background": {
-        "decoration": "windows"
+        "decoration": "grid"
     },
     "favicon": "/favicon.svg",
     "navigation": {
